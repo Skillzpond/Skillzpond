@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Dereck Smith Elijah and owner of Skillzpond. I love to code PHP, C++, C and Swift. I love to code. to contact me, mail me to derecksmith0204@gmail.com
+I am Dereck Smith Elijah and owner of Skillzpond. I love to code PHP, C++, C and Swift. I love to code.
