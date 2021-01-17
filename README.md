@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to Skillzpond, A coding group of two people
 
 <!--
 **Skillzpond/Skillzpond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Dereck Smith Elijah. I love to code PHP, C++, C and Swift. I love to code.
+Welcome to Skillzpond, a coding group of two people, Smith1234567 and Skillzpond who codes swift, objective-c, html, css, js, android, ios and php.
