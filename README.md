@@ -33,6 +33,10 @@ We will write open source projects on SwiftUI, PHP, JS, HTML, CSS small snippets
 
 Yes, I was working in MYSQL database with php, Firebase with Android and iOS and currently trying MongoDB... 
 
+### Did you join a organisation
+
+No, i created the organisation for iOS projects made by me and @Smith1234567
+
 ### How to reach me ?
 
 You can reach me and Smith1234567 by the email forums.skillzpond@gmail.com. 
