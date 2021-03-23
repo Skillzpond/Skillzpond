@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    float: left;
+    width: 100vw;
+    height: 100vh;
+    background-image: url("./food.jpg");
+    background-position: center;
+}
+
+.title {
+    float: left;
+    width: 30%;
+    height: 10%;
+    margin-left: 10%;
+    margin-top: 10%;
+    font-family: "Poppins";
+    color: white;
+}
+
+.circle {
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-radius: 50%;
+    margin: 15px;
+}
+
+.box {
+    float: left;
+    width: 50px;
+    margin-top: 12%;
+}
